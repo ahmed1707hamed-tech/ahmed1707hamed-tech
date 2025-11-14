@@ -4,10 +4,11 @@
 ### Cloud & DevOps Engineer
 
 <br>
+### 🔗 Useful Links
 
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-1E90FF?style=for-the-badge)](https://ahmed-hamed.vercel.app/)
-[![CV](https://img.shields.io/badge/Check%20My%20CV-00C853?style=for-the-badge)](https://drive.google.com/file/d/1gKXvBMa8OnpudjWUqHF4o3n_ckqgHIt1/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge)](https://ahmedportfolio-sigma.vercel.app)
 
+[![CV](https://img.shields.io/badge/Check%20My%20CV-28A745?style=for-the-badge)](https://drive.google.com/file/d/1gKXvBMa8OnpudjWUqHF4o3n_ckqgHIt1/view?usp=sharing)
 </div>
 <div align="center">
 
