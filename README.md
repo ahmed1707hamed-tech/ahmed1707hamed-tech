@@ -10,7 +10,7 @@
 
 [![CV](https://img.shields.io/badge/Check%20My%20CV-28A745?style=for-the-badge)](https://drive.google.com/file/d/1gKXvBMa8OnpudjWUqHF4o3n_ckqgHIt1/view?usp=sharing)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=500&lines=👉+Follow+Me;Don't+Forget+To+Star+⭐" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=500&lines=Follow+the+Vibes+🚀" />
 </p>
 </div>
 <div align="center">
