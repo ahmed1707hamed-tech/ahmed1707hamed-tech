@@ -5,8 +5,8 @@
 <br>
 ## 🔗 Useful Links
 
-[![Check My CV](https://img.shields.io/badge/CHECK%20MY%20CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/13QYrsTRPfxQ8rGURIu7ezjvzmbU1zZq7/view?usp=sharing) 
-[![View My Portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-2979FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-hamed-2004.netlify.app)
+[![Check My CV](https://img.shields.io/badge/CHECK%20MY%20CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ge9eRYcDFupHKqMUUq8W2xiizXkequ3o/view?usp=sharing) 
+[![View My Portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-2979FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-hamed-portfolio.netlify.app)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=600&lines=Follow+The+Vibes+🚀;Check+My+Popular+Repositories+📁" />
