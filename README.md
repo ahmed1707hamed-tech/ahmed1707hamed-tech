@@ -1,9 +1,23 @@
 <div align="center">
+# ☁️ Hi, I'm Ahmed Hamed!
 
-## Hi, I'm Ahmed Hamed  
-### Cloud & System Engineer
-<br>
-## 🔗 Useful Links
+### Cloud System Engineer | Student | Tech Explorer
+
+I’m a *Cloud System Engineering student* with a strong interest in  
+*Linux, Cloud Infrastructure, Docker, and System Administration*.  
+I enjoy building, breaking, fixing, and automating systems 🚀
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" align="right"/>
+
+---
+
+### 🧠 About Me
+- 🎓 Student & lifelong learner
+- ☁️ Cloud System Engineer (in progress)
+- 🐧 Linux lover
+- 🐳 Working with Docker & Containers
+- 🛠 Interested in DevOps & Infrastructure
+- 🌱 Learning something new every single day
 
 [![Check My CV](https://img.shields.io/badge/CHECK%20MY%20CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ge9eRYcDFupHKqMUUq8W2xiizXkequ3o/view?usp=sharing) 
 [![View My Portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-2979FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-hamed-portfolio.netlify.app)
