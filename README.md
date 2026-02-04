@@ -7,7 +7,8 @@ I’m a *Cloud System Engineering student* with a strong interest in
 *Linux, Cloud Infrastructure, Docker, and System Administration*.  
 I enjoy building, breaking, fixing, and automating systems 🚀
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" align="right"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cloud/cloud.png" width="220" align="right"/>
+
 
 ---
 
