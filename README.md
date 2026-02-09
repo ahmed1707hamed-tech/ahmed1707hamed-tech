@@ -9,10 +9,10 @@ I love learning how systems work, scale, and stay reliable.
 ✨ Student of life :)
 🌱 Always learning, every day is a new opportunity.
 ❤ Exploring Open Source & hands-on labs.
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="160"/>
-</p>
 
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3159/3159066.png" width="140"/>
+</p>
 ---
 
 
