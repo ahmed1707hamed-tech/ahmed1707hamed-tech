@@ -10,7 +10,9 @@ I love learning how systems work, scale, and stay reliable.
 🌱 Always learning, every day is a new opportunity.
 ❤ Exploring Open Source & hands-on labs.
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" align="right"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+</p>
 
 
 
