@@ -11,7 +11,7 @@ I love learning how systems work, scale, and stay reliable.
 ❤ Exploring Open Source & hands-on labs.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="150" />
 </p>
 
 
