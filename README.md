@@ -11,8 +11,12 @@ I love learning how systems work, scale, and stay reliable.
 ❤ Exploring Open Source & hands-on labs.
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="150" />
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="120" />
 </p>
+
+<h3 align="center">
+🦉✨ Learning every day & celebrating progress 🎉
+</h3>
 
 
 
