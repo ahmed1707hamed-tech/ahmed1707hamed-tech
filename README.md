@@ -11,13 +11,8 @@ I love learning how systems work, scale, and stay reliable.
 ❤ Exploring Open Source & hands-on labs.
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="120" />
+  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot-celebrate.svg" width="180" />
 </p>
-
-<h3 align="center">
-🦉✨ Learning every day & celebrating progress 🎉
-</h3>
-
 
 
 ---
