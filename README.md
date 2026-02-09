@@ -9,11 +9,9 @@ I love learning how systems work, scale, and stay reliable.
 ✨ Student of life :)
 🌱 Always learning, every day is a new opportunity.
 ❤ Exploring Open Source & hands-on labs.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120"/>
-</p>>
-
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="160"/>
+</p>
 
 ---
 
