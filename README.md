@@ -11,8 +11,8 @@ I love learning how systems work, scale, and stay reliable.
 ❤ Exploring Open Source & hands-on labs.
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot-celebrate.svg" width="180" />
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120"/>
+</p>>
 
 
 ---
