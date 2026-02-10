@@ -19,43 +19,12 @@ I love learning how systems work, scale, and stay reliable.
 [![Check My CV](https://img.shields.io/badge/CHECK%20MY%20CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Ge9eRYcDFupHKqMUUq8W2xiizXkequ3o/view?usp=sharing) 
 [![View My Portfolio](https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-2979FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-hamed-portfolio.netlify.app)
 
-<h2 align="center">
-  <span id="typing"></span>
-</h2>
-
-<script>
-  const texts = [
-    "Cloud Enthusiast ☁️",
-    "Learning DevOps 🚀",
-    "Open Source Contributor 🌍",
-    "Always Learning New Things 📚"
-  ];
-
-  let count = 0;
-  let index = 0;
-  let currentText = "";
-  let letter = "";
-
-  (function type() {
-    if (count === texts.length) {
-      count = 0;
-    }
-
-    currentText = texts[count];
-    letter = currentText.slice(0, ++index);
-
-    document.getElementById("typing").textContent = letter;
-
-    if (letter.length === currentText.length) {
-      setTimeout(() => {
-        index = 0;
-        count++;
-      }, 1500);
-    }
-
-    setTimeout(type, 100);
-  })();
-</script>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F7C95C&center=true&vCenter=true&width=650&lines=Cloud+Enthusiast;Learning+DevOps;Open+Source+Contributor;Always+Learning+New+Things" 
+    alt="Typing SVG" 
+  />
+</p>
 
 ## 🌐 Socials
 
