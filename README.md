@@ -6,10 +6,10 @@ Cloud & DevOps Engineer passionate about designing, automating, and managing sca
 Experienced in Linux systems, containerization, DevOps practices, and deployment automation.
 Interested in building reliable systems, improving performance, and implementing modern DevOps solutions.
  
+- ✨ Student of life :)
+- 🌱 Always learning, every day is a new opportunity.
+- ❤ Exploring Open Source & hands-on labs.
 
-✨ Student of life :)
-🌱 Always learning, every day is a new opportunity.
-❤ Exploring Open Source & hands-on labs.
 
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/3159/3159066.png" width="140"/>
