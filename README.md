@@ -1,10 +1,11 @@
 
 # ɪ'ᴍ ᴀʜᴍᴇᴅ ʜᴀᴍᴇᴅ 😎
 
-### Cloud System Engineer || Network Infastructure || System Administration
+### Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 
-I am a passionate Cloud, Network, and Linux enthusiast interested in system administration and infrastructure technologies.
-I love learning how systems work, scale, and stay reliable.
+Cloud & DevOps Engineer passionate about designing, automating, and managing scalable cloud infrastructure.
+Experienced in Linux systems, containerization, DevOps practices, and deployment automation.
+Interested in building reliable systems, improving performance, and implementing modern DevOps solutions.
 
 ✨ Student of life :)
 🌱 Always learning, every day is a new opportunity.
