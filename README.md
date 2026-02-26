@@ -1,11 +1,18 @@
+<h1 align="center">😎 I'M AHMED HAMED!</h1>
 
-# ɪ'ᴍ ᴀʜᴍᴇᴅ ʜᴀᴍᴇᴅ 😎
+<h3 align="center">Cloud & DevOps Engineer ☁️🚀</h3>
 
-### Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
+<img align="right" alt="Coding" width="300" 
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2R1dW1rbnJzM2R5a2F0a3R0cWZ0a2R2dWZ0Z3Z0a2N6eGQ4eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-Cloud & DevOps Engineer passionate about designing, automating, and managing scalable cloud infrastructure.
-Experienced in Linux systems, containerization, DevOps practices, and deployment automation.
-Interested in building reliable systems, improving performance, and implementing modern DevOps solutions.
+---
+
+### 👨‍💻 About Me
+- 🎓 FCIS | IT @ MU  
+- ☁️ Cloud & DevOps Engineer  
+- 🐧 Linux & Infrastructure Enthusiast  
+- ⚙️ Automation | CI/CD | Docker | Kubernetes  
+- 🚀 Building scalable and reliable systems  
 
 ✨ Student of life :)
 🌱 Always learning, every day is a new opportunity.
