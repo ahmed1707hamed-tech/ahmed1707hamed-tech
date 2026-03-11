@@ -1,7 +1,4 @@
 <h1 align="center"> I'M_AHMED HAMED!😎</h1>
-![DevOps Banner](https://raw.githubusercontent.com/rodrigobdz/docker-compose-devops/master/devops.png)
-![DevOps](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-![DevOps Project](https://miro.medium.com/v2/resize:fit:1200/1*EBXc9eJ1yr4E1vQY0m7bAw.png)
 
 # Intelligent Traffic Management DevOps Project
 
