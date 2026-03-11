@@ -22,7 +22,7 @@ Interested in building reliable systems, improving performance, and implementing
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F7C95C&center=true&vCenter=true&width=650&lines=Cloud+Enthusiast;Learning+DevOps;Open+Source+Contributor;Always+Learning+New+Things" 
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F7C95C&center=true&vCenter=true&width=650&lines=Cloud+Enthusiast;DevOps+Engineer;Open+Source+Contributor;Always+Learning+New+Things" 
     alt="Typing SVG" 
   />
 </p>
