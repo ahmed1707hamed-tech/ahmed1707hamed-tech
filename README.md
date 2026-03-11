@@ -1,5 +1,5 @@
 <h1 align="center"> I'M_AHMED HAMED!😎</h1>
-![DevOps](https://miro.medium.com/v2/resize:fit:1400/1*Q5EUk28XcJHkGJ7s5tqV6A.png)
+https://miro.medium.com/v2/resize:fit:1400/1*9p6k9kC6XqVq6KYFAsktwA.png
 
 ### Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 
