@@ -2,11 +2,12 @@
 
 ### Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 
-💡 About Me
-🎓 Information Technology Student with a strong interest in Cloud & DevOps
-⚙️ Skilled in Linux, Docker, Kubernetes, and CI/CD pipelines
-📈 Focused on building real-world projects and production-ready systems
-🔍 Constantly learning and exploring modern DevOps tools & practices
+## 💡 About Me
+
+- 🎓 Information Technology Student with a strong interest in Cloud & DevOps  
+- ⚙️ Skilled in Linux, Docker, Kubernetes, and CI/CD pipelines  
+- 📈 Focused on building real-world projects and production-ready systems  
+- 🔍 Constantly learning and exploring modern DevOps tools & practices  
 
 - ✨ Student of life :)
 - 🌱 Always learning, every day is a new opportunity.
