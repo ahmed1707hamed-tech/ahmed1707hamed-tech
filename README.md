@@ -1,13 +1,13 @@
 <h1 align="center"> I'M_AHMED HAMED!😎</h1>
 
-# Intelligent Traffic Management DevOps Project
-
 ### Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 
-Cloud & DevOps Engineer passionate about designing, automating, and managing scalable cloud infrastructure.
-Experienced in Linux systems, containerization, DevOps practices, and deployment automation.
-Interested in building reliable systems, improving performance, and implementing modern DevOps solutions.
- 
+💡 About Me
+🎓 Information Technology Student with a strong interest in Cloud & DevOps
+⚙️ Skilled in Linux, Docker, Kubernetes, and CI/CD pipelines
+📈 Focused on building real-world projects and production-ready systems
+🔍 Constantly learning and exploring modern DevOps tools & practices
+
 - ✨ Student of life :)
 - 🌱 Always learning, every day is a new opportunity.
 - ❤ Exploring Open Source & hands-on labs.
