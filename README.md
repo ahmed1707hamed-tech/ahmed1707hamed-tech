@@ -9,7 +9,6 @@
 - 📈 Focused on building real-world projects and production-ready systems  
 - 🔍 Constantly learning and exploring modern DevOps tools & practices  
 
-- ✨ Student of life :)
 - 🌱 Always learning, every day is a new opportunity.
 - ❤ Exploring Open Source & hands-on labs.
 
