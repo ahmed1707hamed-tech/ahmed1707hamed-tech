@@ -29,14 +29,15 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
   </a>
 </p>
 
-<h3 align="center" style="color:#22c55e;">
+<h3 align="center">
   <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F7C95C&center=true&vCenter=true&width=650&lines=Cloud+Enthusiast;DevOps+Engineer;Open+Source+Contributor;Always+Learning+New+Things" 
-    alt="Typing SVG" 
-  />
-</p>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=22C55E&center=true&vCenter=true&width=650&lines=Cloud+Enthusiast;DevOps+Engineer;Open+Source+Contributor;Always+Learning+New+Things&v=3" 
+      alt="Typing SVG" 
+    />
+  </p>
 </h3>
+
 # 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17ZBvVS5B9/)
