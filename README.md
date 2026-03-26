@@ -13,32 +13,26 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 - 🌱 Always learning, every day is a new opportunity.
 - ❤ Exploring Open Source & hands-on labs.
 
-<p align="left">
+<p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3159/3159066.png" width="140"/>
 </p>
 
 ---
 
+<h2 align="center">Check my popular repositories</h2>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/15tyIpHbM3vfBsw4VlT5B0ZL8oS73VTM1/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-15803D?style=for-the-badge&logo=none&logoColor=white" />
+  <a href="https://drive.google.com/file/d/15tyIpHbM3vfBsw4VlT5B0ZL8oS73VTM1/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My%20CV-15803D?style=for-the-badge" />
   </a>
-  
-  &nbsp;&nbsp;
-  
-  <a href="https://a7med-hamed.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-15803D?style=for-the-badge&logo=none&logoColor=white" />
+  <a href="https://a7med-hamed.vercel.app/">
+    <img src="https://img.shields.io/badge/My%20Portfolio-15803D?style=for-the-badge" />
   </a>
 </p>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F7C95C&center=true&vCenter=true&width=650&lines=Cloud+Enthusiast;DevOps+Engineer;Open+Source+Contributor;Always+Learning+New+Things" 
-    alt="Typing SVG" 
-  />
-</p>
-
+<h3 align="center" style="color:#22c55e;">
+  Always Learn
+</h3>
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17ZBvVS5B9/)
