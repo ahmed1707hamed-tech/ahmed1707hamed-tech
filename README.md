@@ -90,7 +90,7 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 <h2 align="center">🛠️ Top Technical Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,helm,argo,jenkins,githubactions,gitlab,prometheus,grafana,git,github,python,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,git,github,python,helm,argo,bash&perline=9" />
 </p>
 
 
@@ -104,6 +104,7 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=ahmed1707hamed-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmed1707hamed-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
