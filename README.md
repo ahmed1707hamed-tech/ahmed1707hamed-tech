@@ -91,6 +91,10 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,git,github,python,helm,argo,bash&perline=9" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed1707hamed-tech/ahmed1707hamed-tech/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 <h2 align="center">🚀 DevOps Mindset</h2>
