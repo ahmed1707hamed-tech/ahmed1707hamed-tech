@@ -19,7 +19,6 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 
 ---
 
-<h2 align="center">Check my popular repositories</h2>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/15tyIpHbM3vfBsw4VlT5B0ZL8oS73VTM1/view?usp=sharing">
@@ -31,7 +30,12 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 </p>
 
 <h3 align="center" style="color:#22c55e;">
-  Always Learn
+  <p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F7C95C&center=true&vCenter=true&width=650&lines=Cloud+Enthusiast;DevOps+Engineer;Open+Source+Contributor;Always+Learning+New+Things" 
+    alt="Typing SVG" 
+  />
+</p>
 </h3>
 ## 🌐 Socials
 
