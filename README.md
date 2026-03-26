@@ -87,7 +87,12 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1707hamed-tech&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmed1707hamed-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2 align="center">🛠️ Top Technical Skills & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,helm,argo,jenkins,githubactions,gitlab,prometheus,grafana,git,github,python,bash&perline=9" />
+</p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
