@@ -95,10 +95,19 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">🚀 DevOps Mindset</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmed1707hamed-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/%22You%20build%20it%2C%20you%20run%20it%22-%2322c55e?style=for-the-badge" />
+</p>
+
+<h2 align="center">🔥 Top Contributed Repositories</h2>
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=ahmed1707hamed-tech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&v=2" 
+  />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmed1707hamed-tech&icon=0&color=0)](https://visitcount.itsvg.in)
