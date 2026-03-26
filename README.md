@@ -88,7 +88,7 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 <h2 align="center">🛠️ Top Technical Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,git,github,python,helm,argo,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,git,github,python,bashوhelm,argo&perline=9" />
 </p>
 
 <p align="center">
