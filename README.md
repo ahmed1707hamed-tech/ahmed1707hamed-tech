@@ -18,15 +18,12 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 </p>
 
 ---
-
 <p align="center">
-  <a href="https://drive.google.com/file/d/15tyIpHbM3vfBsw4VlT5B0ZL8oS73VTM1/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-166534?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV" />
-  </a>
+  
+[![My CV](https://img.shields.io/badge/My%20CV-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/15tyIpHbM3vfBsw4VlT5B0ZL8oS73VTM1/view?usp=sharing)
 
-  <a href="https://a7med-hamed.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-166534?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio" />
-  </a>
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://a7med-hamed.vercel.app/)
+
 </p>
 <h3 align="center">
   <p align="center">
