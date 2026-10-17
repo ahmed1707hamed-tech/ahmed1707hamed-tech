@@ -19,7 +19,7 @@ Cloud & DevOps Engineer | AWS | Docker | Kubernetes | CI/CD
 
 ---
 <p align="center">
-  <a href="https://drive.google.com/file/d/1q0Tu0HmOWysna3LHmAVTnSQxzF173xSS/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1VK3D46iHMyiIONL_a1MsT_yDuViHLzSd/view?usp=sharing">
     <img src="https://img.shields.io/badge/My%20CV-22c55e?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 
